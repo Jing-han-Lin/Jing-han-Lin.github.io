@@ -18,4 +18,4 @@ My research interests are phonetics and phonology, especially acoustic and perce
 
 In my spare time, I enjoy piano, jogging and badminton.  ^_^
 
-Feel free to contact me at jinghanlin11 [at] outlook [dot] com.
+Please contact me at jinghanlin11 [at] outlook [dot] com.
