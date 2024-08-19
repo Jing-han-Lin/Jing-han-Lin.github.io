@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-My name is Jinghan Lin, pronounced as [ʨɪŋ⁵¹ xan³⁵ lɪn³⁵].
+My name is Jinghan Lin, pronounced as [ʨiᵊŋ⁵¹ xan³⁵ lin³⁵].
 
 I am currently pursuing my Master's degree in Chinese Linguistics at Peking University under the supervision of Prof. Yunjia Wang. 
 
