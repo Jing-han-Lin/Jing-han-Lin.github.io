@@ -25,9 +25,9 @@ author:
   pronouns         : "she/her/hers"  
   bio              : "The best time to plant a tree is twenty years ago. The second-best time is now."
   location         : "Beijing, China"
-  employer         : [Peking University](https://www.pku.edu.cn/)
+  employer         : "Peking University"
   uri              : # URL
-  email            : [jinghanlin11@outlook.com](jinghanlin11@outlook.com)
+  email            : "jinghanlin11@outlook.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
